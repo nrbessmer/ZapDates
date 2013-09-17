@@ -10,6 +10,7 @@ group :development, :test do
 gem 'sqlite3', '1.3.7'
   gem 'rspec-rails', '2.13.1'
 gem 'guard-rspec', '2.5.0'
+gem 'bootstrap-sass', '2.3.2.0'
 end
 
 group :test do
